@@ -1,0 +1,57 @@
+.sola{
+   margin-right: 20px;
+   font-size: large;
+}
+.orta{
+   font-size: large;
+}
+.sag{
+   margin-left: 20px;
+   font-size: large;
+}
+.font{
+   font-size: xx-large;
+   color:rgb(158, 86, 146);
+}
+.location{
+   text-align: center;
+}
+.baslik1{
+   font-size: xx-large;
+   color: rgb(78, 19, 133);
+   text-align: left 10px;
+}
+.size{
+   font-size: larger;
+}
+.sec-p{
+   color:darkgoldenrod;
+   font-size: larger;
+}
+.sec-ul{
+   list-style-position: inside;
+}
+.sec-arp{
+   margin-right: 20px;
+}
+.sec-gitar{
+   margin-right: 13px;
+}
+.sec-klarnet{
+   margin-left: 3px;
+}
+.sec-ol{
+   list-style-position: inside;
+  
+}
+.new-loc{
+   text-align: left;
+   font-size: larger;
+}
+.about-h1-color{
+   color: darkgoldenrod;
+}
+.resim{
+   height: 300px;
+   width: px;
+}

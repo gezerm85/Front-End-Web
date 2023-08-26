@@ -1,0 +1,23 @@
+ul{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+li{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    border: none;
+    
+
+}
+
+
+#box1{
+    height: 50px;
+}
+

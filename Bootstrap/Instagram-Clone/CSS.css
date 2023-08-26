@@ -1,0 +1,149 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+
+.icon{
+    margin-top: 10px;
+   font-size:large;
+}
+
+
+.input-src{
+    
+    height: 28px;
+    width: 216px
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+
+.story{
+    margin-top: 100px;
+    border-color: #b4b4b4;
+    border-radius: 5px;
+    width: 530px;
+    height: 120px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+.img-story{
+    float: left;
+    border:solid;
+    border-width: 3px;
+    border-top-color:rgb(255, 34, 77);
+    border-right-color: rgb(255, 37, 11);
+    border-bottom-color: rgb(236, 123, 2);
+    border-left-color: rgb(255, 204, 59);
+   
+    margin-left:   10px ;
+    margin-right:  10px ;
+    
+    
+  
+}
+.img-story2{
+    float: left;
+    border:solid;
+    border-width: 3px;
+    border-top-color:rgb(255, 34, 77);
+    border-right-color: rgb(255, 37, 11);
+    border-bottom-color: rgb(255, 161, 59);
+    border-left-color: rgb(255, 204, 59);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:   10px ;
+    margin-right:  10px ;
+    
+    
+    
+  
+}
+
+.text-story{
+    font-size: 11px;
+    color: black;
+    
+    
+    margin-left:   10px ;
+    margin-right:  10px ;
+}
+
+
+.post{
+    margin-top: -200px;
+    margin-bottom: 300px;
+    border-color: #b4b4b4;
+    width: 530px;
+    height: 593px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.post-text{
+ color: black;
+ 
+
+
+}
+
+.post-img{
+    width: 530px;
+    height: 300px;
+    
+   
+    
+}
+
+.icon2{
+    margin-left: 10px;
+    padding-top: 5px;
+    font-size: 23px;
+   
+    
+}
+.comment-text{
+    padding-top: 1px;
+    color: black;
+    font-size: 15px;
+}
+
+.img-story3{
+    float: left;
+    border:solid;
+    border-width: 3px;
+    border-top-color:rgb(255, 34, 77);
+    border-right-color: rgb(255, 37, 11);
+    border-bottom-color: rgb(255, 161, 59);
+    border-left-color: rgb(255, 204, 59);
+    
+    
+    margin-left:   18px ;
+    margin-right:  10px ;
+}
+.comment-text1{
+    color: black;
+    margin-top: -10px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+.comment-text2{
+    color: grey;
+    margin-top: -10px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.menu{
+    width: 300px;
+    height: 400px;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
