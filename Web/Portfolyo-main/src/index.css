@@ -1,0 +1,11 @@
+body{
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+  background-color: #fff
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
